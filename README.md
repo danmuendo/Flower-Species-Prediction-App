@@ -51,7 +51,9 @@ streamlit run app.py
 ## Using the App
 
 Size: Select the size of the flower (small, medium, large).
+
 Fragrance: Select the fragrance level (none, mild, high).
+
 Height (cm): Enter the height of the flower in centimeters.
 
 After running the above command, the app will open in a web browser window, allowing you to input the features and predict the species.
@@ -67,7 +69,11 @@ Contributions are welcome! If you have any suggestions or improvements, please c
 
 ## Steps to Contribute
 Fork the repository.
+
 Create a new branch for your feature: git checkout -b feature-name
+
 Commit your changes: git commit -m 'Add new feature'
+
 Push to the branch: git push origin feature-name
+
 Open a pull request.
